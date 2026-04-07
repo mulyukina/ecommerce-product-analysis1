@@ -1,0 +1,8 @@
+"number_day_of_week","day_of_week","total_events","unique_users","unique_viewers","unique_purchasers","conversion_rate"
+1,monday   ,7417612,975198,975118,70255,7.20
+2,tuesday  ,7088233,937860,937788,64811,6.91
+3,wednesday,7060528,941763,941675,65028,6.91
+4,thursday ,8202273,968951,968874,64943,6.70
+5,friday   ,12984847,1155905,1155740,70585,6.11
+6,saturday ,13252995,1215645,1215157,107821,8.87
+7,sunday   ,11495491,1048948,1048103,156325,14.92

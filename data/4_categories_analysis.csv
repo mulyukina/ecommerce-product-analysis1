@@ -1,0 +1,11 @@
+"category_code","revenue","purchase_count","avg_check","unique_viewers","unique_purchasers","convertion_rate","cart_abandon_rate"
+electronics.smartphone,177821661.61,382647,464.71,1574985,192425,12.22,67.01
+electronics.video.tv,12427034.79,30194,411.57,258470,20531,7.94,71.55
+computers.notebook,10674951.57,18281,583.94,196345,12112,6.17,68.82
+appliances.kitchen.washer,5801906.33,19772,293.44,159992,13565,8.48,71.87
+electronics.audio.headphone,5669502.49,40834,138.84,316021,25873,8.19,68.86
+electronics.clocks,5556680.66,16453,337.73,199212,10676,5.36,66.82
+"",4031199.11,67813,59.45,385698,44868,11.63,73.59
+appliances.kitchen.refrigerators,3621928.78,8692,416.70,112795,6402,5.68,74.09
+"",3125829.65,14061,222.30,193159,9107,4.71,63.79
+appliances.environment.vacuum,2736634.32,18014,151.92,167690,14364,8.57,71.97
